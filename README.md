@@ -4,9 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **Python**
-
-- 📫 How to reach me **03devverma@gmail.com**
+- 🌱 I’m currently learning **Java**
 
 - ⚡ Fun fact **I am an artist and I love anime.**
 
